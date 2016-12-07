@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1090923793050",
+    "firebase_url": "https://forgeweb-142021.firebaseio.com",
+    "project_id": "forgeweb-142021",
+    "storage_bucket": "forgeweb-142021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090923793050:android:58d03ccf165ec6b8",
+        "android_client_info": {
+          "package_name": "solutions.pirca.forgecapacitadores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090923793050-8g1j4hot67pnhe9aftn3t8j0i2nq6ibc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvGFJfQfxf3fUEJf4U1TZYh7Z6TDL-m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
