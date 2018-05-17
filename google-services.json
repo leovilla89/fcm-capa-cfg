@@ -8,40 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1090923793050:android:58d03ccf165ec6b8",
+        "mobilesdk_app_id": "1:1090923793050:android:620e6f89aadeafc3",
         "android_client_info": {
-          "package_name": "solutions.pirca.forgecapacitadores"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1090923793050-8g1j4hot67pnhe9aftn3t8j0i2nq6ibc.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDTvGFJfQfxf3fUEJf4U1TZYh7Z6TDL-m8"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1090923793050:android:70c87a84261960e4",
-        "android_client_info": {
-          "package_name": "solutions.pirca.forgealumnos"
+          "package_name": "fondation.forge.empresasceibal"
         }
       },
       "oauth_client": [
@@ -101,6 +70,37 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:1090923793050:android:5d5cd0737e537a4f",
+        "android_client_info": {
+          "package_name": "fondation.forge.formadoresceibal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090923793050-8g1j4hot67pnhe9aftn3t8j0i2nq6ibc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvGFJfQfxf3fUEJf4U1TZYh7Z6TDL-m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:1090923793050:android:72b55940f87533f8",
         "android_client_info": {
           "package_name": "fondation.forge.jovenes"
@@ -132,9 +132,102 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:1090923793050:android:823656d25b553502",
+        "android_client_info": {
+          "package_name": "fondation.forge.jovenesceibal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090923793050-8g1j4hot67pnhe9aftn3t8j0i2nq6ibc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvGFJfQfxf3fUEJf4U1TZYh7Z6TDL-m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:1090923793050:android:27db0eb81fdfbbab",
         "android_client_info": {
           "package_name": "fundacion.forge.formadores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090923793050-8g1j4hot67pnhe9aftn3t8j0i2nq6ibc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvGFJfQfxf3fUEJf4U1TZYh7Z6TDL-m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090923793050:android:70c87a84261960e4",
+        "android_client_info": {
+          "package_name": "solutions.pirca.forgealumnos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090923793050-8g1j4hot67pnhe9aftn3t8j0i2nq6ibc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvGFJfQfxf3fUEJf4U1TZYh7Z6TDL-m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090923793050:android:58d03ccf165ec6b8",
+        "android_client_info": {
+          "package_name": "solutions.pirca.forgecapacitadores"
         }
       },
       "oauth_client": [
